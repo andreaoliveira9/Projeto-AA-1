@@ -1,5 +1,7 @@
 # Projeto-AA-1
 
+Nota: 16.5
+
 Primeiro projeto Algoritmos Avançados
 
 1 – For a given undirected graph G(V, E), with n vertices and m edges, does G have a clique with k 
